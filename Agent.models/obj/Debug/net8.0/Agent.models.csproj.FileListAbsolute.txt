@@ -1,0 +1,11 @@
+C:\Users\IT\source\repos\Test\Agent\Agent.models\bin\Debug\net8.0\Agent.Models.deps.json
+C:\Users\IT\source\repos\Test\Agent\Agent.models\bin\Debug\net8.0\Agent.Models.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.models\bin\Debug\net8.0\Agent.Models.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.AssemblyInfo.cs
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\refint\Agent.Models.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\Agent.Models.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.models\obj\Debug\net8.0\ref\Agent.Models.dll

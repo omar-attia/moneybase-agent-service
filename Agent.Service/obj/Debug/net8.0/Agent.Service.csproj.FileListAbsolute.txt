@@ -1,0 +1,17 @@
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Service.deps.json
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Service.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Service.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Dal.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Models.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Dal.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\bin\Debug\net8.0\Agent.Models.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.AssemblyInfo.cs
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Se.F7E5ADF2.Up2Date
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\refint\Agent.Service.dll
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\Agent.Service.pdb
+C:\Users\IT\source\repos\Test\Agent\Agent.Service\obj\Debug\net8.0\ref\Agent.Service.dll

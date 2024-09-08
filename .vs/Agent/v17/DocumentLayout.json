@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\agentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\agentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\entities\\agentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\entities\\agentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\agentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\agentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\entities\\pendingqueuedsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\entities\\pendingqueuedsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\agentassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\agentassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\sessionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\sessionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IT\\source\\repos\\RabbitMQLibrary\\RabbitMQLibrary\\RabbitMQService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\interfaces\\iagentassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\interfaces\\iagentassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\agent.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\agent.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\agent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\agent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\enums\\senioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\enums\\senioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\agentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\agentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\agentassignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\agentassignmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\interfaces\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\interfaces\\iagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\sessionqueuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\sessionqueuemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\pendingqueuedsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\pendingqueuedsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\interfaces\\ipendingqueuedsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\interfaces\\ipendingqueuedsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\pendingqueuedsessiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\pendingqueuedsessiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\interfaces\\ipendingqueuedsessiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\interfaces\\ipendingqueuedsessiondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\agentassignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\agentassignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\interfaces\\iagentassignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\interfaces\\iagentassignmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\interfaces\\iagentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\interfaces\\iagentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\teamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\teamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\interfaces\\iteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\interfaces\\iteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\agent.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\agent.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\interfaces\\iagentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\interfaces\\iagentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\agent.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\agent.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\data\\entities\\senioritymultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\data\\entities\\senioritymultiplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\interfaces\\ioverflowteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\interfaces\\ioverflowteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.api\\controllers\\agentassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92AD4950-03AC-43A2-BD2D-627C674BC4C2}|Agent.Api\\Agent.Api.csproj|solutionrelative:agent.api\\controllers\\agentassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\enums\\sessionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\enums\\sessionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.service\\interfaces\\ioverflowteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29321C7F-5C67-4AF4-BC15-BE9972E57014}|Agent.Service\\Agent.Service.csproj|solutionrelative:agent.service\\interfaces\\ioverflowteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.dal\\overflowteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6DE132-04F8-4B2D-AEBA-9A0D379F5532}|Agent.Dal\\Agent.Dal.csproj|solutionrelative:agent.dal\\overflowteamdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\teammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|c:\\users\\it\\source\\repos\\test\\agent\\agent.models\\agentstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F40EFD-91EA-40F0-914C-27504378F121}|Agent.models\\Agent.Models.csproj|solutionrelative:agent.models\\agentstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\AgentDbContext.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\AgentDbContext.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\AgentDbContext.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\AgentDbContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwD0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:35:11.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAgentAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IAgentAssignmentService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\Interfaces\\IAgentAssignmentService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IAgentAssignmentService.cs",
+              "RelativeToolTip": "Agent.Service\\Interfaces\\IAgentAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:27:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Entities\\Agent.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\Agent.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Entities\\Agent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:41:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PendingQueuedSession.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\PendingQueuedSession.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Entities\\PendingQueuedSession.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\PendingQueuedSession.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Entities\\PendingQueuedSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:29:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\AgentDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\AgentDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\AgentDal.cs",
+              "RelativeToolTip": "Agent.Dal\\AgentDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:32:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\AgentAssignment.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Entities\\AgentAssignment.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\AgentAssignment.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Entities\\AgentAssignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:48:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "Agent.Api\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "Agent.Api\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:31:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "Agent.Api\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "Agent.Api\\Controllers\\AgentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:55:38.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Agent.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Agent.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T15:00:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\Team.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Entities\\Team.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\SessionModel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\SessionModel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\SessionModel.cs",
+              "RelativeToolTip": "Agent.models\\SessionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:51:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\RabbitMQLibrary\\RabbitMQLibrary\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "..\\..\\RabbitMQLibrary\\RabbitMQLibrary\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\RabbitMQLibrary\\RabbitMQLibrary\\RabbitMQService.cs",
+              "RelativeToolTip": "..\\..\\RabbitMQLibrary\\RabbitMQLibrary\\RabbitMQService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:29:33.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\AgentAssignmentService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\AgentAssignmentService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\AgentAssignmentService.cs",
+              "RelativeToolTip": "Agent.Service\\AgentAssignmentService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAlwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:31:38.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\ConsumerService.cs",
+              "RelativeToolTip": "Agent.Service\\ConsumerService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAApwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:46:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Agent.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Program.cs",
+              "RelativeToolTip": "Agent.Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:22:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\AgentService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\AgentService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\AgentService.cs",
+              "RelativeToolTip": "Agent.Service\\AgentService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAxwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:06:32.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AgentAssignmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentAssignmentModel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\AgentAssignmentModel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentAssignmentModel.cs",
+              "RelativeToolTip": "Agent.models\\AgentAssignmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:28:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Agent.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Agent.Service.csproj",
+              "RelativeDocumentMoniker": "Agent.Service\\Agent.Service.csproj",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Agent.Service.csproj*",
+              "RelativeToolTip": "Agent.Service\\Agent.Service.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:15:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Agent.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Agent.Api.csproj",
+              "RelativeDocumentMoniker": "Agent.Api\\Agent.Api.csproj",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Agent.Api.csproj*",
+              "RelativeToolTip": "Agent.Api\\Agent.Api.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T15:42:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeniorityLevel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Enums\\SeniorityLevel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\Enums\\SeniorityLevel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Enums\\SeniorityLevel.cs",
+              "RelativeToolTip": "Agent.models\\Enums\\SeniorityLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:51:01.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgentModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentModel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\AgentModel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentModel.cs",
+              "RelativeToolTip": "Agent.models\\AgentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:13:17.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IAgentService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\Interfaces\\IAgentService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IAgentService.cs",
+              "RelativeToolTip": "Agent.Service\\Interfaces\\IAgentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:06:58.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionQueueModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\SessionQueueModel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\SessionQueueModel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\SessionQueueModel.cs",
+              "RelativeToolTip": "Agent.models\\SessionQueueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:03:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PendingQueuedSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\PendingQueuedSessionService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\PendingQueuedSessionService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\PendingQueuedSessionService.cs",
+              "RelativeToolTip": "Agent.Service\\PendingQueuedSessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:03:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPendingQueuedSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IPendingQueuedSessionService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\Interfaces\\IPendingQueuedSessionService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IPendingQueuedSessionService.cs",
+              "RelativeToolTip": "Agent.Service\\Interfaces\\IPendingQueuedSessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:07:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PendingQueuedSessionDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\PendingQueuedSessionDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\PendingQueuedSessionDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\PendingQueuedSessionDal.cs",
+              "RelativeToolTip": "Agent.Dal\\PendingQueuedSessionDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:56:09.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPendingQueuedSessionDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IPendingQueuedSessionDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Interfaces\\IPendingQueuedSessionDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IPendingQueuedSessionDal.cs",
+              "RelativeToolTip": "Agent.Dal\\Interfaces\\IPendingQueuedSessionDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:01:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AgentAssignmentDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\AgentAssignmentDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\AgentAssignmentDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\AgentAssignmentDal.cs",
+              "RelativeToolTip": "Agent.Dal\\AgentAssignmentDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:56:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAgentAssignmentDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IAgentAssignmentDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Interfaces\\IAgentAssignmentDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IAgentAssignmentDal.cs",
+              "RelativeToolTip": "Agent.Dal\\Interfaces\\IAgentAssignmentDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:55:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAgentDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IAgentDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Interfaces\\IAgentDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IAgentDal.cs",
+              "RelativeToolTip": "Agent.Dal\\Interfaces\\IAgentDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:26:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\TeamService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\TeamService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\TeamService.cs",
+              "RelativeToolTip": "Agent.Service\\TeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:37:31.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\Interfaces\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\ITeamService.cs",
+              "RelativeToolTip": "Agent.Service\\Interfaces\\ITeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:32:48.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TeamDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\TeamDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\TeamDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\TeamDal.cs",
+              "RelativeToolTip": "Agent.Dal\\TeamDal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwC0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:23:01.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITeamDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\ITeamDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Interfaces\\ITeamDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\ITeamDal.cs",
+              "RelativeToolTip": "Agent.Dal\\Interfaces\\ITeamDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:53:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TeamModel.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\TeamModel.cs",
+              "RelativeDocumentMoniker": "Agent.models\\TeamModel.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\TeamModel.cs",
+              "RelativeToolTip": "Agent.models\\TeamModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:35:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Agent.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Agent.Models.csproj",
+              "RelativeDocumentMoniker": "Agent.models\\Agent.Models.csproj",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Agent.Models.csproj",
+              "RelativeToolTip": "Agent.models\\Agent.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:44:43.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAgentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Interfaces\\IAgentDbContext.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Interfaces\\IAgentDbContext.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Interfaces\\IAgentDbContext.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Interfaces\\IAgentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:37:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AgentStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentStatistics.cs",
+              "RelativeDocumentMoniker": "Agent.models\\AgentStatistics.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\AgentStatistics.cs",
+              "RelativeToolTip": "Agent.models\\AgentStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:45:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeniorityMultiplier.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\SeniorityMultiplier.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Data\\Entities\\SeniorityMultiplier.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Data\\Entities\\SeniorityMultiplier.cs",
+              "RelativeToolTip": "Agent.Dal\\Data\\Entities\\SeniorityMultiplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:02:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Agent.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Agent.Dal.csproj",
+              "RelativeDocumentMoniker": "Agent.Dal\\Agent.Dal.csproj",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Agent.Dal.csproj",
+              "RelativeToolTip": "Agent.Dal\\Agent.Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T17:25:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IOverflowTeamDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IOverflowTeamDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\Interfaces\\IOverflowTeamDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\Interfaces\\IOverflowTeamDal.cs",
+              "RelativeToolTip": "Agent.Dal\\Interfaces\\IOverflowTeamDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:01:04.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AgentAssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\AgentAssignmentController.cs",
+              "RelativeDocumentMoniker": "Agent.Api\\Controllers\\AgentAssignmentController.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Api\\Controllers\\AgentAssignmentController.cs",
+              "RelativeToolTip": "Agent.Api\\Controllers\\AgentAssignmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:13:16.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SessionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Enums\\SessionStatus.cs",
+              "RelativeDocumentMoniker": "Agent.models\\Enums\\SessionStatus.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.models\\Enums\\SessionStatus.cs",
+              "RelativeToolTip": "Agent.models\\Enums\\SessionStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:04:43.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IOverflowTeamService.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IOverflowTeamService.cs",
+              "RelativeDocumentMoniker": "Agent.Service\\Interfaces\\IOverflowTeamService.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Service\\Interfaces\\IOverflowTeamService.cs",
+              "RelativeToolTip": "Agent.Service\\Interfaces\\IOverflowTeamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:40:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OverflowTeamDal.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\OverflowTeamDal.cs",
+              "RelativeDocumentMoniker": "Agent.Dal\\OverflowTeamDal.cs",
+              "ToolTip": "C:\\Users\\IT\\source\\repos\\Test\\Agent\\Agent.Dal\\OverflowTeamDal.cs",
+              "RelativeToolTip": "Agent.Dal\\OverflowTeamDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:02:42.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
